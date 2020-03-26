@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.wrap{
+    
+    height: 100px;
+    width: auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+.Ndiv{
+  
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+.A{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+.main{
+    display: flex;
+    width: auto;
+    
+}
+#first{
+    justify-content: center;
+}
+
